@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  StringLocalization
+
+  Created by Domo on 17/09/2019.
+  Copyright © 2019 Domo. All rights reserved.
+*/
+"ViewController_Label_Hello" = "Hello";
